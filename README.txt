@@ -1,2 +1,2 @@
 GitHubの実験。
-Eclipseで変更してみた。
+Eclipse3.7.1で変更してみた。
