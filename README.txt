@@ -1,4 +1,4 @@
 GitHubの実験。
 Eclipse3.7.1で変更してみた。
 
-issueの実験
+issueの実験2
